@@ -1,3 +1,9 @@
+# Git Clone
+```sh
+git clone https://github.com/gokhannihal/database101.git 
+```
+
+
 # MongoDB 4.2.18
 
 #### Docker ' da mongodb 4.2.18 uygulamasını çalıştırmak için gereken komutlar:
