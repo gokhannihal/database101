@@ -60,3 +60,7 @@ mysql -uduser -ppassword -h127.0.0.1 -P3306 -e "create database northwind"
 mysql -uduser -ppassword -h127.0.0.1 -P3306 northwind < northwind-create.sql
 mysql -uduser -ppassword -h127.0.0.1 -P3306 northwind < northwind-data.sql
 ```
+#### MySQL Client üzerinden docker 'da çalışan MySQL uygulamasına erişmek için gereken komut:
+```sh
+mysql -uduser -ppassword -h127.0.0.1 -P3306
+```
